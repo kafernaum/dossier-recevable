@@ -1,0 +1,5 @@
+Validation initiale du 9 novembre 2026.
+Le script check_budget.py et ses huit tests unitaires ont été exécutés dans l’environnement Python de préparation : huit tests réussis.
+Ce résultat porte sur l’arithmétique, pas sur les réponses de Claude.
+Scénarios comportementaux Claude : non exécutés.
+Aucune certification institutionnelle ni étude utilisateur.

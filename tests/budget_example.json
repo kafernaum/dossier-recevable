@@ -1,0 +1,9 @@
+{
+  "currency": "USD",
+  "lines": [
+    {"label": "Honoraires fictifs", "quantity": "20", "unit_price": "400"},
+    {"label": "Frais fictifs uniquement pour cet exemple", "quantity": "5", "unit_price": "100"}
+  ],
+  "declared_total": "8500",
+  "payment_percentages": [20, 40, 40]
+}

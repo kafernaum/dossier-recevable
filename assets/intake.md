@@ -1,0 +1,13 @@
+# Fiche d’entrée
+- Référence et titre :
+- Organisme et procédure :
+- Individuel / cabinet / autre :
+- Diagnostic / correction / revue finale :
+- Échéance, heure, fuseau et source :
+- Documents et versions :
+- Addenda et réponses officielles :
+- Modèles et contraintes de longueur :
+- Devise, honoraires, frais validés, sources et dates :
+- Outils et accès autorisés :
+- Données à masquer :
+- Questions prioritaires :

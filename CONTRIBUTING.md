@@ -1,0 +1,2 @@
+# Contribuer
+Proposer des cas fictifs reproductibles avec attendu et source des règles. Ne jamais inclure candidature réelle, signature, pièce d’identité, coordonnées bancaires ou secret. Toute nouvelle règle institutionnelle doit préciser portée, source officielle, date et conditions ; ne pas généraliser à tous les appels. Exécuter les tests Python et consigner séparément ceux dans Claude. Toute modification de comportement exige un scénario de non-régression. Aucune garantie d’attribution ou prétention d’approbation institutionnelle.
